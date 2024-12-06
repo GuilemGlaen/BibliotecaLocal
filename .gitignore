@@ -1,0 +1,6 @@
+# Archivos ignorados
+db.sqlite3
+migrations/
+__init__.py
+wsgi.py
+asgi.py
